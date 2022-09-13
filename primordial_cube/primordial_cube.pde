@@ -2,7 +2,7 @@
 //  * This sketch demonstrates the application of the fast Fourier transform (FFT) algorithm
 //  * In particular, cube-composed pseudo concentric, expanding, rotating circles
 //  * are generated as a function of the amplitude and frequency components of the input signal
-//  * The input signal referenced: H.E.R. - Going (NPR Music Tiny Desk Concert) + H.E.R. - Going;
+//  * The input signal referenced: Bonobo - Elysian;
 //  * (This sketch was adapted from Benjamin Farahmand - Atomic Sprocket)
 //  */
 
