@@ -1,5 +1,3 @@
-# Primordial Cubes
-
 ![](cover.png)
 
 ## Artifacts
