@@ -3,6 +3,7 @@
 In this project we'll review tools for simulating [actual_thing] using [actual_thing]
 
 ## Background
+The fruits of science and history have yielded liquid crystal technologies, semiconductors devices, and a number of optimization techniques for building increasingly sophisticated software decision making systems. In particular, real-time decision making for truth assessments in newscasts or on social media, validity and parsing of educational material, and soon fleets of autonomous vehicles.
 
 ### Deep Learning
 
